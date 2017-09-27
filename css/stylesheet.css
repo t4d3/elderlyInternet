@@ -1,0 +1,89 @@
+/* http://cdn.flaticon.com/png/64/49/49744.png
+Main color: #009688   Trim color: #00BFA5   Secondary Color: ;*/
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+nav ul {
+    background-color: #009688;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    color:white;
+    display:block;
+    padding:10px 10px ;
+    text-decoration:none;
+}
+
+nav li:hover {
+    background-color: #00BFA5;
+}
+
+nav a:hover {
+    text-decoration:none;
+    color: #000000;
+}
+
+nav > ul {
+    display:table; 
+    width:100%;
+}
+
+nav > ul > li {
+    display:table-cell; 
+    border-right: 2px solid white;
+}
+
+nav > ul > li:last-child { border-right:none;}
+nav > ul > li > a{ text-align:center;}
+.sp-width{ width:40%;}
+
+section {
+    width:50%;
+    margin:30px auto 15px;
+}
+
+section ul {
+    line-height: 120%;
+}
+
+section img {
+    width: 100%;
+}
+
+section h1 {
+
+}
+
+section p {
+    margin: 0 15px 15px;
+    line-height: 120%;
+
+}
+
+#exampleLink{
+    width:128px;
+    height:44px;
+}
+
+#bookmark{
+    width:253px;
+    height:335px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    background-color: gray;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}
