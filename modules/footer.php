@@ -1,3 +1,3 @@
 <footer>
-	<a href='/siteplan'>CIT 230</a>
+	<a href='/elderlyInternet/siteplan'>CIT 230</a>
 </footer>

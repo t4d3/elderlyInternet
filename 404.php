@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
-<link rel="icon" type="img/png" href="images/favicon.png">
+<link rel="stylesheet" type="text/css" href="/elderlyInternet/css/stylesheet.css">
+<link rel="icon" type="img/png" href="/elderlyInternet/images/favicon.png">
 <title>Elderly Internet</title>
 </head>
 <body>
 
-<?php include '/modules/nav.php'; ?>
+<?php include 'modules/nav.php'; ?>
 
 <section>
 <h1>ERROR 404</h1>

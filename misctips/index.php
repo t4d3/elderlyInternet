@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="/css/stylesheet.css">
-<link rel="/icon" type="/img/png" href="/img/favicon.png">
+<link rel="stylesheet" type="text/css" href="/elderlyInternet/css/stylesheet.css">
+<link rel="/icon" type="/img/png" href="/elderlyInternet/img/favicon.png">
 <title>Elderly Internet</title>
 </head>
 <body>
@@ -11,17 +11,12 @@
 
 <section>
 	<h1>Miscellaneous Tips</h1>
-	<p>
-		asdf
-	</p>
-	<p>
+	<p>asdf</p>
 		<h1>Misc Tips</h1>
 		<ul>
 			<li>watching videos</li>
 			<li>how to download</li>
 		</ul>
-	</p>
-
 </section>
 
 <?php include '../modules/footer.php'; ?>
